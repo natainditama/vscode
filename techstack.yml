@@ -1,0 +1,1973 @@
+repo_name: natainditama/vscode
+report_id: 0ede64e370f8be670ea707ac3a0495c5
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-09T04:51:41+00:00'
+requested_by: Yoyokrazy
+provider: github
+branch: main
+detected_tools_count: 149
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Clojure
+  description: A dynamic programming language that targets the Java Virtual Machine
+  website_url: http://clojure.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1003/Clojure_300x300.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: F#
+  description: Strongly-typed, functional-first programming language for writing simple
+    code to solve complex problems
+  website_url: http://fsharp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2155/yRNL7yTW.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Lua
+  description: Powerful, fast, lightweight, embeddable scripting language
+  website_url: http://www.lua.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/vscode-colorize-tests/test/colorize-fixtures/test.sql
+  detection_source: extensions/vscode-colorize-tests/test/colorize-fixtures/test.sql
+  last_updated_by: João Moreno
+  last_updated_on: 2021-01-19 10:38:43.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Erich Gamma
+  last_updated_on: 2015-11-13 13:39:38.000000000 Z
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 27.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Robo
+  last_updated_on: 2024-01-22 19:25:03.000000000 Z
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/leaks/yarn.lock
+  detection_source: test/leaks/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-05-06 12:45:10.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 18.17.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/.nvmrc
+  detection_source: Repo Metadata
+  last_updated_by: João Moreno
+  last_updated_on: 2023-10-20 07:53:57.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/vscode-colorize-tests/test/colorize-fixtures/test.jsx
+  detection_source: extensions/vscode-colorize-tests/test/colorize-fixtures/test.jsx
+  last_updated_by: João Moreno
+  last_updated_on: 2021-01-19 10:38:43.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Martin Aeschlimann
+  last_updated_on: 2023-04-03 14:10:40.000000000 Z
+- name: Azure Storage
+  description: Reliable, economical cloud storage for data big and small
+  website_url: http://azure.microsoft.com/en-us/services/storage/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/package.json
+  detection_source: build/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2023-11-16 06:19:59.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/monaco/yarn.lock
+  detection_source: test/monaco/package.json
+  last_updated_by: Alexandru Dima
+  last_updated_on: 2020-12-28 20:43:35.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/builtin/.eslintrc
+  detection_source: build/builtin/.eslintrc
+  last_updated_by: Joao Moreno
+  last_updated_on: 2018-01-29 21:04:27.000000000 Z
+- name: Esbuild
+  description: An extremely fast JavaScript bundler
+  website_url: https://esbuild.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/package.json
+  detection_source: build/package.json
+  last_updated_by: Benjamin Pasero
+  last_updated_on: 2023-04-04 10:43:16.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/.github/workflows/author-verified.yml
+  detection_source: ".github/workflows/author-verified.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-12 16:04:53.000000000 Z
+- name: Julia
+  description: A high-level, high-performance dynamic programming language for technical
+    computing
+  website_url: http://pkg.julialang.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package_manager/3914/default_a30825f60d1159a8bca0d7d45c4988f63eeb2b0f.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Benjamin Pasero
+  last_updated_on: 2022-05-02 06:30:27.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Erich Gamma
+  last_updated_on: 2015-11-13 13:39:38.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/configuration-editing/package.json
+  detection_source: extensions/configuration-editing/package.json
+  last_updated_by: Sandeep Somavarapu
+  last_updated_on: 2023-01-19 23:13:23.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 12.0.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Johannes
+  last_updated_on: 2023-01-13 10:05:10.000000000 Z
+- name: Visual Studio Code
+  description: Build and debug modern web and cloud applications, by Microsoft
+  website_url: https://code.visualstudio.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/.vscode/tasks.json
+  detection_source: ".vscode/tasks.json"
+  last_updated_by: Alex Ross
+  last_updated_on: 2023-06-19 16:57:04.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.76.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Martin Aeschlimann
+  last_updated_on: 2023-04-03 14:10:40.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/.yarnrc
+  detection_source: ".yarnrc"
+  last_updated_by: Joao Moreno
+  last_updated_on: 2017-11-13 21:36:57.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: highlight.js
+  description: Syntax highlighter in JavaScript
+  website_url: https://highlightjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/markdown-language-features/package.json
+  detection_source: extensions/markdown-language-features/package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2023-07-11 18:20:57.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 21.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/notebook-renderers/yarn.lock
+  detection_source: extensions/notebook-renderers/package.json
+  last_updated_by: aamunger
+  last_updated_on: 2023-03-16 19:07:47.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Erich Gamma
+  last_updated_on: 2015-11-13 13:39:38.000000000 Z
+- name: CUDA
+  description: It provides everything you need to develop GPU-accelerated applications
+  website_url: http://www.nvidia.com/object/cuda_home_new.html
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/2836/LUOWehvo_400x400.jpeg
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Kerberos
+  description: 'The Massachusetts Institute of Technology is a world leader in research
+    and education. Related accounts: @MITevents, @MITvideo Full list: http://t.co/yi6zEYtL6J'
+  website_url: https://web.mit.edu/kerberos/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6491/C_SBTZQ__normal.jpg
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Christof Marti
+  last_updated_on: 2023-07-19 18:11:00.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/natainditama/vscode
+  detection_source: Repo Metadata
+- name: cssnano
+  description: A modular minifier, based on the PostCSS ecosystem. Created by @ben_eb.
+  website_url: http://cssnano.co/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-04-06 12:28:39.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjamin Pasero
+  last_updated_on: 2019-10-08 13:24:45.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  version: 19.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/configuration-editing/yarn.lock
+  detection_source: extensions/configuration-editing/package.json
+  last_updated_by: Sandeep Somavarapu
+  last_updated_on: 2023-01-19 23:13:23.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  version: 4.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/monaco/yarn.lock
+  detection_source: test/monaco/package.json
+  last_updated_by: Alex Dima
+  last_updated_on: 2021-10-11 16:14:10.000000000 Z
+- name: "@types/debug"
+  description: TypeScript definitions for debug
+  package_url: https://www.npmjs.com/@types/debug
+  version: 4.1.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/fs-extra"
+  description: TypeScript definitions for fs-extra
+  package_url: https://www.npmjs.com/@types/fs-extra
+  version: 9.0.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/glob"
+  description: TypeScript definitions for Glob
+  package_url: https://www.npmjs.com/@types/glob
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/gulp"
+  description: TypeScript definitions for Gulp
+  package_url: https://www.npmjs.com/@types/gulp
+  version: 4.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16929/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/jsdom"
+  description: TypeScript definitions for jsdom
+  package_url: https://www.npmjs.com/@types/jsdom
+  version: 21.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17003/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/notebook-renderers/yarn.lock
+  detection_source: extensions/notebook-renderers/package.json
+  last_updated_by: aamunger
+  last_updated_on: 2023-03-16 19:07:47.000000000 Z
+- name: "@types/mime"
+  description: TypeScript definitions for mime
+  package_url: https://www.npmjs.com/@types/mime
+  version: 0.0.29
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18274/default_7a7ed285fac4b842f0d8c3991804954d9db6b793.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/minimatch"
+  description: TypeScript definitions for Minimatch
+  package_url: https://www.npmjs.com/@types/minimatch
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17630/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/minimist"
+  description: TypeScript definitions for minimist
+  package_url: https://www.npmjs.com/@types/minimist
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16976/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/mkdirp"
+  description: TypeScript definitions for mkdirp
+  package_url: https://www.npmjs.com/@types/mkdirp
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16738/default_aa2369d4412b5a2c6812de3c666299e0ccd25ea2.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 9.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 8.0.51
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.5.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: extensions/github-authentication/package.json
+  last_updated_by: Tyler James Leonhardt
+  last_updated_on: 2023-10-16 20:58:44.000000000 Z
+- name: "@types/rimraf"
+  description: TypeScript definitions for rimraf
+  package_url: https://www.npmjs.com/@types/rimraf
+  version: 2.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16613/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/semver"
+  description: TypeScript definitions for semver
+  package_url: https://www.npmjs.com/@types/semver
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/typescript-language-features/yarn.lock
+  detection_source: extensions/typescript-language-features/package.json
+  last_updated_by: John Murray
+  last_updated_on: 2023-11-16 22:46:41.000000000 Z
+- name: "@types/sinon"
+  description: TypeScript definitions for Sinon
+  package_url: https://www.npmjs.com/@types/sinon
+  version: 10.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16151/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2024-01-09 06:48:18.000000000 Z
+- name: "@types/through2"
+  description: TypeScript definitions for through2 v
+  package_url: https://www.npmjs.com/@types/through2
+  version: 2.0.36
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18186/default_9472f2a1c56256064874685c48697eac8a870621.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/tmp"
+  description: TypeScript definitions for tmp
+  package_url: https://www.npmjs.com/@types/tmp
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17575/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/microsoft-authentication/yarn.lock
+  detection_source: extensions/microsoft-authentication/package.json
+  last_updated_by: Robo
+  last_updated_on: 2023-08-07 12:46:27.000000000 Z
+- name: "@types/webpack"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack
+  version: 5.28.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16215/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2024-01-09 06:48:18.000000000 Z
+- name: "@types/xml2js"
+  description: TypeScript definitions for node-xml2js
+  package_url: https://www.npmjs.com/@types/xml2js
+  version: 0.0.33
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17763/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.57.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2024-01-09 06:48:18.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.57.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2024-01-09 06:48:18.000000000 Z
+- name: ansi-colors
+  description: Easily add ANSI colors to your text and symbols in the terminal
+  package_url: https://www.npmjs.com/ansi-colors
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17880/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: package.json
+  last_updated_by: Alex Dima
+  last_updated_on: 2019-02-05 21:21:05.000000000 Z
+- name: byline
+  description: Simple line-by-line stream reader
+  package_url: https://www.npmjs.com/byline
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17895/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-02-02 10:39:26.000000000 Z
+- name: colors
+  description: Get colors in your node.js console
+  package_url: https://www.npmjs.com/colors
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-02-02 10:39:26.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 2.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-01-18 14:47:31.000000000 Z
+- name: cookie
+  description: HTTP server cookie parsing and serialization
+  package_url: https://www.npmjs.com/cookie
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16660/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/remote/yarn.lock
+  detection_source: package.json
+  last_updated_by: Alex Dima
+  last_updated_on: 2022-01-24 20:00:26.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: cssnano
+  description: A modular minifier, built on top of the PostCSS ecosystem
+  package_url: https://www.npmjs.com/cssnano
+  version: 4.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16102/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-04-06 12:28:39.000000000 Z
+- name: debounce
+  description: Creates and returns a new debounced version of the passed function
+    that will postpone its execution until after wait milliseconds have elapsed since
+    the last time it was invoked
+  package_url: https://www.npmjs.com/debounce
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17140/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/automation/yarn.lock
+  detection_source: package.json
+  last_updated_by: Erich Gamma
+  last_updated_on: 2015-11-13 13:39:38.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: detect-indent
+  description: Detect the indentation of code
+  package_url: https://www.npmjs.com/detect-indent
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18494/default_cede69e31c17bc0ea44d5859768333df0dd3c641.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/ipynb/yarn.lock
+  detection_source: extensions/ipynb/package.json
+  last_updated_by: Don Jayamanne
+  last_updated_on: 2023-11-20 05:12:55.000000000 Z
+- name: eslint-plugin-jsdoc
+  description: JSDoc linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-jsdoc
+  version: 46.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16672/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Johannes
+  last_updated_on: 2023-08-30 09:37:44.000000000 Z
+- name: event-stream
+  description: Construct pipes of streams of events
+  package_url: https://www.npmjs.com/event-stream
+  version: 3.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16246/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: SteVen Batten
+  last_updated_on: 2023-04-19 17:34:35.000000000 Z
+- name: extract-zip
+  description: Unzip a zip file into a directory using 100% javascript
+  package_url: https://www.npmjs.com/extract-zip
+  version: 2.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17488/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Robo
+  last_updated_on: 2021-08-06 15:48:45.000000000 Z
+- name: fancy-log
+  description: Log things, prefixed with a timestamp
+  package_url: https://www.npmjs.com/fancy-log
+  version: 1.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17353/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: package.json
+  last_updated_by: Alex Dima
+  last_updated_on: 2019-02-05 21:21:05.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: file-type
+  description: Detect the file type of a Buffer/Uint8Array/ArrayBuffer
+  package_url: https://www.npmjs.com/file-type
+  version: 16.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17196/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/git/yarn.lock
+  detection_source: extensions/git/package.json
+  last_updated_by: Henning Dieterichs
+  last_updated_on: 2023-11-24 09:49:17.000000000 Z
+- name: find-up
+  description: Find a file or directory by walking up parent directories
+  package_url: https://www.npmjs.com/find-up
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17030/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/npm/yarn.lock
+  detection_source: extensions/npm/package.json
+  last_updated_by: Martin Aeschlimann
+  last_updated_on: 2023-09-13 13:46:29.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 10.3.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: package.json
+  last_updated_by: Sandeep Somavarapu
+  last_updated_on: 2018-08-21 14:26:48.000000000 Z
+- name: graceful-fs
+  description: A drop-in replacement for fs, making various improvements
+  package_url: https://www.npmjs.com/graceful-fs
+  version: 4.2.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjamin Pasero
+  last_updated_on: 2023-06-30 11:32:34.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-eslint
+  description: A gulp plugin for processing files with ESLint
+  package_url: https://www.npmjs.com/gulp-eslint
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16009/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-filter
+  description: Filter files in a `vinyl` stream
+  package_url: https://www.npmjs.com/gulp-filter
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16385/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-gzip
+  description: Gzip plugin for gulp
+  package_url: https://www.npmjs.com/gulp-gzip
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17577/default_cce6af1cc5c037d170650dfd256f479915d5a8e4.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-json-editor
+  description: A gulp plugin to edit JSON objects
+  package_url: https://www.npmjs.com/gulp-json-editor
+  version: 2.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18145/default_440caaaee595e35f6bfab82d7f75dc25a80312ce.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-plumber
+  description: Prevent pipe breaking caused by errors from gulp plugins
+  package_url: https://www.npmjs.com/gulp-plumber
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16033/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-postcss
+  description: PostCSS gulp plugin
+  package_url: https://www.npmjs.com/gulp-postcss
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16282/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-replace
+  description: A string replace plugin for gulp
+  package_url: https://www.npmjs.com/gulp-replace
+  version: 0.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16150/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-shell
+  description: A handy command line interface for gulp
+  package_url: https://www.npmjs.com/gulp-shell
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16370/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2022-05-12 07:16:03.000000000 Z
+- name: gulp-sourcemaps
+  description: Source map support for Gulp.js
+  package_url: https://www.npmjs.com/gulp-sourcemaps
+  version: 3.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: gulp-svgmin
+  description: Minify SVG files with gulp
+  package_url: https://www.npmjs.com/gulp-svgmin
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18621/default_bfdca233dd06bf5ee49c0465e2e4d66bd360c101.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: https-proxy-agent
+  description: An HTTP
+  package_url: https://www.npmjs.com/https-proxy-agent
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17334/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: package.json
+  last_updated_by: Christof Marti
+  last_updated_on: 2023-11-21 13:55:43.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 0.13.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjamin Pasero
+  last_updated_on: 2019-10-08 13:24:45.000000000 Z
+- name: image-size
+  description: Get dimensions of any image file
+  package_url: https://www.npmjs.com/image-size
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16919/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/emmet/yarn.lock
+  detection_source: extensions/emmet/package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2022-09-06 22:21:34.000000000 Z
+- name: koa-mount
+  description: Mounting middleware for koa
+  package_url: https://www.npmjs.com/koa-mount
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17608/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/leaks/yarn.lock
+  detection_source: test/leaks/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-05-06 12:45:10.000000000 Z
+- name: koa-static
+  description: Static file serving middleware for koa
+  package_url: https://www.npmjs.com/koa-static
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16538/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/leaks/yarn.lock
+  detection_source: test/leaks/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-05-06 12:45:10.000000000 Z
+- name: lodash.throttle
+  description: The lodash method `_.throttle` exported as a module
+  package_url: https://www.npmjs.com/lodash.throttle
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16643/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/extensions/markdown-language-features/yarn.lock
+  detection_source: extensions/markdown-language-features/package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2022-07-14 06:32:27.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 12.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: extensions/extension-editing/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-01-14 01:05:10.000000000 Z
+- name: mime
+  description: A comprehensive library for mime-type mapping
+  package_url: https://www.npmjs.com/mime
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16182/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Alex Dima
+  last_updated_on: 2020-12-21 09:47:16.000000000 Z
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.1.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: extensions/npm/package.json
+  last_updated_by: Martin Aeschlimann
+  last_updated_on: 2023-09-12 16:48:14.000000000 Z
+- name: minimist
+  description: Parse argument options
+  package_url: https://www.npmjs.com/minimist
+  version: 1.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-02-01 16:08:49.000000000 Z
+- name: mocha-junit-reporter
+  description: A JUnit reporter for mocha
+  package_url: https://www.npmjs.com/mocha-junit-reporter
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16739/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: ncp
+  description: Asynchronous recursive file copy utility
+  package_url: https://www.npmjs.com/ncp
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16261/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/automation/yarn.lock
+  detection_source: test/automation/package.json
+  last_updated_by: Jason Ginchereau
+  last_updated_on: 2019-08-14 13:50:14.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: extensions/github-authentication/package.json
+  last_updated_by: Robo
+  last_updated_on: 2023-08-07 12:46:27.000000000 Z
+- name: node-gyp
+  description: Node.js native addon build tool
+  package_url: https://www.npmjs.com/node-gyp
+  version: 9.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16669/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: build/npm/gyp/package.json
+  last_updated_by: Robo
+  last_updated_on: 2023-07-31 13:53:30.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/automation/yarn.lock
+  detection_source: package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2022-02-28 22:47:25.000000000 Z
+- name: opn
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/opn
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16099/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Erich Gamma
+  last_updated_on: 2015-11-13 13:39:38.000000000 Z
+- name: parse5
+  description: HTML parser and serializer
+  package_url: https://www.npmjs.com/parse5
+  version: 7.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16753/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: extensions/extension-editing/package.json
+  last_updated_by: Martin Aeschlimann
+  last_updated_on: 2023-09-12 12:58:01.000000000 Z
+- name: pump
+  description: Pipe streams together and close all of them if one of them closes
+  package_url: https://www.npmjs.com/pump
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16623/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: package.json
+  last_updated_by: Joao Moreno
+  last_updated_on: 2016-09-19 08:22:57.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: package.json
+  last_updated_by: Erich Gamma
+  last_updated_on: 2015-11-13 13:39:38.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 7.5.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: extensions/typescript-language-features/package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2023-08-28 07:49:40.000000000 Z
+- name: source-map
+  description: Generates and consumes source maps
+  package_url: https://www.npmjs.com/source-map
+  version: 0.6.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16339/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-01-06 13:19:19.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Raymond Zhao
+  last_updated_on: 2023-10-13 16:01:12.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Martin Aeschlimann
+  last_updated_on: 2023-04-03 14:10:40.000000000 Z
+- name: through2
+  description: A tiny wrapper around Node.js streams.Transform
+  package_url: https://www.npmjs.com/through2
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15948/default_fdb56d0865cbc86d9157d5e33f9313d760ed0e83.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Connor Peet
+  last_updated_on: 2022-04-11 05:36:12.000000000 Z
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: Michel Kaporin
+  last_updated_on: 2017-04-05 10:22:25.000000000 Z
+- name: tree-kill
+  description: Kill trees of processes
+  package_url: https://www.npmjs.com/tree-kill
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17621/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/automation/yarn.lock
+  detection_source: test/automation/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2021-11-08 13:40:02.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 9.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Martin Aeschlimann
+  last_updated_on: 2023-04-03 14:10:40.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: typescript-formatter
+  description: Formatter of TypeScript code
+  package_url: https://www.npmjs.com/typescript-formatter
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18061/default_4dc0f6b6f94933c7b1cd9e6944ac18356b3044fb.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Matt Bierner
+  last_updated_on: 2024-01-09 06:48:18.000000000 Z
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  version: 0.12.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjamin Pasero
+  last_updated_on: 2023-11-20 11:16:11.000000000 Z
+- name: watch
+  description: Utilities for watching file trees
+  package_url: https://www.npmjs.com/watch
+  version: 1.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/test/automation/yarn.lock
+  detection_source: test/automation/package.json
+  last_updated_by: Benjamin Pasero
+  last_updated_on: 2022-04-13 17:19:58.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2024-01-19 16:04:06.000000000 Z
+- name: webpack-stream
+  description: Run webpack as a stream
+  package_url: https://www.npmjs.com/webpack-stream
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16467/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Martin Aeschlimann
+  last_updated_on: 2023-04-03 14:10:40.000000000 Z
+- name: which
+  description: Like which
+  package_url: https://www.npmjs.com/which
+  version: 2.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/npm/gyp/yarn.lock
+  detection_source: extensions/git/package.json
+  last_updated_by: Ladislau Szomoru
+  last_updated_on: 2023-09-01 14:40:56.000000000 Z
+- name: xml2js
+  description: Simple XML to JavaScript object converter
+  package_url: https://www.npmjs.com/xml2js
+  version: 0.4.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16122/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-04-11 10:10:44.000000000 Z
+  vulnerabilities:
+  - name: xml2js is vulnerable to prototype pollution
+    cve_id: CVE-2023-0842
+    cve_url: https://github.com/advisories/GHSA-776f-qx25-q3cc
+    detected_date: Apr 8
+    severity: moderate
+    first_patched: 0.5.0
+- name: yauzl
+  description: Yet another unzip library for node
+  package_url: https://www.npmjs.com/yauzl
+  version: 2.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18448/default_31e3dc8ee5066945286d4e7345d470ac3863ee5a.png
+  detection_source_url: https://github.com/natainditama/vscode/blob/main/build/yarn.lock
+  detection_source: build/package.json
+  last_updated_by: João Moreno
+  last_updated_on: 2023-11-16 06:19:59.000000000 Z
